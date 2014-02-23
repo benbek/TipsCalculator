@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tips Calculator</string>
+    <string name="app_description">Calculates the service fee one needs to pay</string>
+    
+    <string name="lblBillAmount"><b>Bill Amount</b>: </string>
+    <string name="chkRound">Round to nearest dollar</string>
+    <string name="btnCalculate">Calculate!</string>
+    <string name="txtTipResult">Tip: %1$s%2$.2f</string>
+    
+    <string name="txtBillHint">00.00</string>
+    <string name="txtCurrencySymbol">$</string>
+
+</resources>
